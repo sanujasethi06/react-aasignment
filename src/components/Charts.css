@@ -1,0 +1,13 @@
+.charts-container {
+    margin-left: 220px;
+    padding: 20px;
+    display: grid;
+    place-items:center;
+
+}
+
+.chart {
+    margin-top: 20px;
+    height: 400px;
+    width: 600px;
+}
